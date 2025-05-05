@@ -2,6 +2,8 @@
 
 An AI-Powered Spreadsheet, built in a weekend
 
+![](https://github.com/wilsonchenghy/MotionSheet/blob/main/MotionSheet.png)
+
 ## 🚀 Getting Started
 
 ### 📦 Frontend Setup
