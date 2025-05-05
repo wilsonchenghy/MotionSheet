@@ -5,13 +5,13 @@ import AddColumnModal from "./AddColumnModal";
 import {
   SpreadsheetData,
   CellSelection,
+  autocompleteCell,
+  extractRowData,
+  isValidSelection,
+  getEffectiveSelection,
   getSelectedRowColumn,
   getSelectionRange,
   countSelectedCells,
-  isValidSelection,
-  getEffectiveSelection,
-  autocompleteCell,
-  extractRowData,
   updateCellWithAutofill
 } from "../utils/spreadsheetHelpers";
 
