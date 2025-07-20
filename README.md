@@ -2,7 +2,7 @@
 
 An AI-Powered Spreadsheet, built in a weekend
 
-![](https://github.com/wilsonchenghy/MotionSheet/blob/main/MotionSheet.png)
+<img width="3881" height="2324" alt="MotionSheet" src="https://github.com/user-attachments/assets/b9d943f7-e189-43cb-82f2-8ee2f5ecc0ea" />
 
 ## 🚀 Getting Started
 
